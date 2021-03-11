@@ -1,0 +1,9 @@
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\bin\Debug\netcoreapp3.1\Singleton.Library.deps.json
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\bin\Debug\netcoreapp3.1\Singleton.Library.dll
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\bin\Debug\netcoreapp3.1\Singleton.Library.pdb
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\obj\Debug\netcoreapp3.1\Singleton.Library.csprojAssemblyReference.cache
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\obj\Debug\netcoreapp3.1\Singleton.Library.AssemblyInfoInputs.cache
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\obj\Debug\netcoreapp3.1\Singleton.Library.AssemblyInfo.cs
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\obj\Debug\netcoreapp3.1\Singleton.Library.csproj.CoreCompileInputs.cache
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\obj\Debug\netcoreapp3.1\Singleton.Library.dll
+E:\Repositories\knowledge-base-netcore-console\DesignPatterns\DesignPatterns\SingletonLibrary\obj\Debug\netcoreapp3.1\Singleton.Library.pdb
