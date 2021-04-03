@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYUqc+un3rHsbKkrrw6i9imqONjzaJZrBIK/ch3n+ZX5moyOiMv06Jslr0QMwZNEgHCmJpitdQIhbdKbFpelcw==",
+  "success": true,
+  "projectFilePath": "E:\\Repositories\\knowledge-base-netcore-console\\AutoMapperDemo\\Console.UI\\Console.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kunik\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Kunik\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kunik\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
