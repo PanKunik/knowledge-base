@@ -1,0 +1,12 @@
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\bin\Debug\net5.0\Domain.dll
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\obj\Debug\net5.0\Domain.dll
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Repozytoria\knowledge-base-netcore-console\DesignPatterns\AbstractFactoryPatternDemo\AbstractFactoryPatternDemo\Domain\obj\Debug\net5.0\Domain.pdb
