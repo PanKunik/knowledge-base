@@ -1,0 +1,11 @@
+@url=https://localhost:5001
+
+POST {{url}}/api/product
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBleGFtcGxlLmNvbSIsImp0aSI6IjgwOWMxZjM5LWMxY2UtNGMwZC1hZjBmLWRhODRmNmIyNzIzNiIsImVtYWlsIjoiYWRtaW5AZXhhbXBsZS5jb20iLCJ1aWQiOiI4MTk5YjExMC0yMGRjLTRmODItODg4Yy01MzIxZmNhOTI3NjMiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJhZG1pbiIsImV4cCI6MTY1OTc4ODQwNCwiaXNzIjoiand0LXRva2VuLWV4YW1wbGUiLCJhdWQiOiJqd3QtdG9rZW4tYXVkaWVuY2UifQ.TXFzPiBoiTcFtW-B9Lv1frWFoqOLOVT09Nsfar2KOM0
+Content-Type: application/json
+
+{
+    "id": 4,
+    "name": "Parówki",
+    "price": 6.98
+}
